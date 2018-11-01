@@ -7,7 +7,7 @@ tags:
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00
-updated_at: 2018-10-31 22:37:01.037492
+updated_at: 2018-10-31 22:44:48.054236
 tldr: This is short description of the content and findings of the post.
 thumbnail: images/output_5_1.png
 ---
